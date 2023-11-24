@@ -80,25 +80,25 @@
 
         </div>
         <div class="content">
-            <h1>e-Post Office <br><span>Welcome User</span> </h1>
-            <p class="par">India Post is a statutory body in India, which is under the ownership of Department of Post,
-                <br>
-                Ministry of Communications of the Government of India. Generally called "the Post Office" <br> in India,
-                it is the most widely distributed postal system in the world.
+            <h1> <br><span>Welcome User</span> </h1>
+            <p class="par">A sophisticated solution designed to elevate your cultural exploration. Our automatic audio
+                guide <br>seamlessly blends technology and culture to enhance your visit.Simply plug in your earphones,
+                and <br>let SmartSonic Guide be your personal storyteller, offering<br> fascinating insights into each
+                exhibit.
             </p>
 
-            <button class="cn"><a href="#">e-Post with us</a></button>
+            <button class="cn"><a href="#">hello user!!!</a></button>
 
             <div class="form">
                 <h2>Welcome</h2>
-                <form action="admin.php">
-                    <button class="btnn"><a href="#">Admin Login</a></button>
+                <form action="guide1.php">
+                    <button class="btnn"><a href="#">sign up</a></button>
                 </form>
-                <form action="registration.php">
-                    <button class="btnn"><a href="#">Register</a></button>
+                <form action="guide1.php">
+                    <button class="btnn"><a href="#">Guide id</a></button>
                 </form>
                 <form action="user.php">
-                    <button class="btnn"><a href="#">User Login</a></button>
+                    <button class="btnn"><a href="#">sign in</a></button>
                 </form>
                 <p class="link"><br>
                     <a href="#"></a> </a>

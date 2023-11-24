@@ -10,7 +10,7 @@
         }
         .c{  
   
-padding-top: 30px; 
+padding-top: 25px; 
 
 } 
 
@@ -74,7 +74,7 @@ ul{
    
 } 
 .f{
-    height:40px;
+    height:30px;
     width:120px;
 } 
         </style>
@@ -121,7 +121,11 @@ ul{
     
        <label for="user">Username:</label>
        <input type="text" class="f" name="name"required/><br><br><br>
+<label for="user">Email:</label>
+       <input type="text" class="f" name="name"required/><br><br><br>
        <label for="password">Password:</label>
+       <input type="password" class="f" name="password"required/><br><br><br>
+  <label for="password">Confirm Password:</label>
        <input type="password" class="f" name="password"required/><br><br><br>
       <input type="submit" class="f" name="submit" id="submit"/>
        </form><br>
